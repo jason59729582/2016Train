@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style type="text/css">
+.box #p1 {color:red; font-family:"幼圆";}
+
+.box{
+	color:maroon;
+	font-style:italic; 
+	font-variant:small-caps;
+	font-weight:bold;
+	font-size:xx-large;
+	font-family:"幼圆","黑体","宋体"; 
+	}
+	
+.name{
+	font:italic small-caps bold 24px;
+	}
+	
+.txt{ text-align:left;
+	line-height:20px;
+	vertical-align:bottom;
+	text-decoration:underline;
+	text-indent:10%;
+	}
+
+em{color:green;}
+
+.bigger{
+	letter-spacing:10px;
+	}
+
+</style>
+
+</head>
+
+<body>
+<div class="box">
+	123121
+    	<p id="p1">
+        12
+        	<em>
+            	dsa
+            </em>
+        </p>
+</div>
+<div class="box">幼圆没有，黑体为什么不显示？而直接显示宋体</div>
+<div class="name">我特么也是醉了</div>
+<div class="txt">居中afdsafds鞋柜夺发的发生地方撒的发生撒旦发生的发生吗</div>
+
+<div class="bigger">ljalfdjlasjdfljdsaljflasnhglkn</div>
+
+
+</body>
+</html>
